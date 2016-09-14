@@ -2,12 +2,10 @@
 
 A Swift extension on UIView to easily add borders to text fields or labels
 
-
-
 # How to use it?
 
 - Add Borders.swift to your project
-- Add the borders in viewDidLayoutSubviews method:
+- Add the borders in viewDidLayoutSubviews method, you can optionally define the color. For example:
 
 ``` Swift
 
@@ -18,3 +16,7 @@ override func viewDidLayoutSubviews() {
 }  
 
 ```
+
+Result: 
+
+![Screenshot](https://github.com/gustanas/SwiftBorders/blob/master/Screen%20Shot%202016-09-14%20at%202.33.58%20PM.png)
