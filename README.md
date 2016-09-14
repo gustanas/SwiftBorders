@@ -20,3 +20,8 @@ override func viewDidLayoutSubviews() {
 Result: 
 
 ![Screenshot](https://github.com/gustanas/SwiftBorders/blob/master/Screen%20Shot%202016-09-14%20at%202.33.58%20PM.png)
+
+
+Twitter: [@gusta_nas](https://twitter.com/gusta_nas)
+
+Website: [gustanas.co](http://www.gustanas.co/)
